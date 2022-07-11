@@ -4,4 +4,4 @@
 - `Base`: Baseado na aula do Especialista Matheus Benites.
 - `Modificações`: Modificações no layout, Adicionado Footer.
 
-<img src="https://github.com/ronaldosys/dio_aprendizado/blob/main/JS-Projeto-JogoDaMemoria/assets/img/jogo_exemplo.png" width=500><br>
+<img src="https://github.com/ronaldosys/AppDesReactDio/blob/main/ReactAPPIMAGE.png" width=500><br>
